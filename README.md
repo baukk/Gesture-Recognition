@@ -6,8 +6,8 @@ This Python project utilizes the [MediaPipe](https://mediapipe.dev/) library and
 
 ## Features
 
-- Detects and tracks hand landmarks in real-time.
-- Recognizes left and right hand gestures for mouse and keyboard control.
+- Detects and tracks hand landmarks in real time.
+- Recognizes left and right-hand gestures for mouse and keyboard control.
 - Control the mouse cursor and perform keyboard actions (e.g., move, click, swipe) using hand gestures.
 - Easily customizable for different hand gestures and actions.
 
@@ -65,12 +65,12 @@ This project uses the [MediaPipe](https://mediapipe.dev/) library for hand landm
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Author
 
 - Tanay Gaur
-- GitHub: [yourusername](https://github.com/baukk)
+- GitHub: [baukk](https://github.com/baukk)
 
 Feel free to contribute to this project and make it even more awesome! If you have any questions or suggestions, please open an issue or pull request.
 
